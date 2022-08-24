@@ -1,6 +1,5 @@
 package com.agile.kata;
 
-import jdk.jfr.StackTrace;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -14,11 +13,8 @@ public class RomanTests {
 
     @Test
     public void convertSingleDigitRoman() {
-        int arabic = convert("I");
+        int arabic = Roman.convert("I");
         assertEquals(1, arabic);
     }
 
-    private int convert(String romanNumeral) {
-        return 1;
-    }
 }
