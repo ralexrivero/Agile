@@ -20,3 +20,4 @@ The goal is to keep as little code as possible to have the least number of bugs 
   - Make Method Static: make the method accessible without creating an instance of the class
   - Move Method: move method to a more appropriate class
   - Move Class: move class to a more appropriate location
+- DRY: Don't Repeat Yourself

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="first roman numeral and variable name improved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" afterDir="false" />
+    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="Micro refactorings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_directory_selection": "/mnt/code/repos/agile/RomandNumbers/src/main/java",
     "node.js.detected.package.eslint": "true",
@@ -85,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661316740629</updated>
-      <workItem from="1661316746214" duration="2585000" />
+      <workItem from="1661316746214" duration="3275000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661317043079</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661318666950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Micro refactorings">
+      <created>1661319364687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661319364687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="first roman numeral and variable name improved" />
-    <option name="LAST_COMMIT_MESSAGE" value="first roman numeral and variable name improved" />
+    <MESSAGE value="Micro refactorings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Micro refactorings" />
   </component>
 </project>
