@@ -3,6 +3,12 @@ Agile improvement
 
 The goal is to keep as little code as possible to have the least number of bugs and achieve the greatest technical agility and business agility.
 
+The point of the kata is not to solve the problem. The point of the Kata is to practice the moves.
+The moves of the kata:
+ - red
+ - green
+ - refactor
+
 ## Conversion
 
 - I = 1

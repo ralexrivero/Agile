@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="DRY and complete Roman Numbers">
+    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="cover basic roman numbers from i to M">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661316740629</updated>
       <workItem from="1661316746214" duration="3568000" />
-      <workItem from="1661396478290" duration="1200000" />
+      <workItem from="1661396478290" duration="1954000" />
+      <workItem from="1661410781785" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661317043079</created>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661320222796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cover basic roman numbers from i to M">
+      <created>1661399450678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661399450678</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +145,7 @@
     <MESSAGE value="first roman numeral and variable name improved" />
     <MESSAGE value="Micro refactorings" />
     <MESSAGE value="DRY and complete Roman Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="DRY and complete Roman Numbers" />
+    <MESSAGE value="cover basic roman numbers from i to M" />
+    <option name="LAST_COMMIT_MESSAGE" value="cover basic roman numbers from i to M" />
   </component>
 </project>
