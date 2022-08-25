@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="Micro refactorings">
+    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="DRY and complete Roman Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agile/kata/RomanTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "/mnt/code/repos/agile/RomandNumbers/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;/mnt/code/repos/agile/RomandNumbers/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="com.agile.kata.Roman" />
@@ -84,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661316740629</updated>
-      <workItem from="1661316746214" duration="3275000" />
+      <workItem from="1661316746214" duration="3568000" />
+      <workItem from="1661396478290" duration="1200000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661317043079</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661319364687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DRY and complete Roman Numbers">
+      <created>1661320222796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661320222796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +133,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="first roman numeral and variable name improved" />
     <MESSAGE value="Micro refactorings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Micro refactorings" />
+    <MESSAGE value="DRY and complete Roman Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="DRY and complete Roman Numbers" />
   </component>
 </project>
