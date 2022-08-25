@@ -30,3 +30,13 @@ The moves of the kata:
   - Extract Method: create a new method from part of a larger method
 - DRY: Don't Repeat Yourself
 - Change Signature: change a method by adding or removing input parameters
+
+## The Morgan's Law
+- !a && !b -> !(a || b)
+- !a || !b -> !(a && b)
+
+## Recommended lectures
+
+- Refactoring: improving the Design of Existing Code by Martin Fowler
+- Refactoring to Patterns by Joshua Kerievsky
+
