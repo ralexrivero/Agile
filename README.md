@@ -29,3 +29,4 @@ The moves of the kata:
   - Inline Code: eliminate an unnecessary variable by inlining the code
   - Extract Method: create a new method from part of a larger method
 - DRY: Don't Repeat Yourself
+- Change Signature: change a method by adding or removing input parameters
