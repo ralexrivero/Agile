@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="refactor for single digit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/agile/kata/Roman.java" afterDir="false" />
+    <list default="true" id="db33f287-af33-4e34-8bbc-41cce7254e22" name="Changes" comment="extract method for single digit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,8 @@
       <updated>1661316740629</updated>
       <workItem from="1661316746214" duration="3568000" />
       <workItem from="1661396478290" duration="1954000" />
-      <workItem from="1661410781785" duration="1035000" />
+      <workItem from="1661410781785" duration="1287000" />
+      <workItem from="1661445929151" duration="752000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1661317043079</created>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661411687731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="extract method for single digit">
+      <created>1661411843555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661411843555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +160,7 @@
     <MESSAGE value="DRY and complete Roman Numbers" />
     <MESSAGE value="cover basic roman numbers from i to M" />
     <MESSAGE value="refactor for single digit" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor for single digit" />
+    <MESSAGE value="extract method for single digit" />
+    <option name="LAST_COMMIT_MESSAGE" value="extract method for single digit" />
   </component>
 </project>

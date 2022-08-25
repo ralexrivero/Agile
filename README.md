@@ -26,4 +26,6 @@ The moves of the kata:
   - Make Method Static: make the method accessible without creating an instance of the class
   - Move Method: move method to a more appropriate class
   - Move Class: move class to a more appropriate location
+  - Inline Code: eliminate an unnecessary variable by inlining the code
+  - Extract Method: create a new method from part of a larger method
 - DRY: Don't Repeat Yourself
