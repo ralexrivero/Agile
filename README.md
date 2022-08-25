@@ -39,4 +39,5 @@ The moves of the kata:
 
 - Refactoring: improving the Design of Existing Code by Martin Fowler
 - Refactoring to Patterns by Joshua Kerievsky
+- [kasperowski.com](https://www.kasperowski.com)
 
